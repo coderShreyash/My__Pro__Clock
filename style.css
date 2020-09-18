@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(45deg,indigo,darkblue,blue,lightblue);
+}
+canvas {
+  border: 15px solid brown;
+  padding:5px;
+  display: block;
+  margin:50px 300px 100px 400px;
+}
+h1{
+  font-size: 50px;
+}
